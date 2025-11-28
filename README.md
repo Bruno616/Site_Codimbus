@@ -3,7 +3,7 @@
 ## 📋 Descrição do Projeto
 Este repositório contém o código-fonte da Landing Page oficial da **Codimbus**, desenvolvida como parte integrante do Trabalho de Conclusão de Curso (TCC) do curso técnico de Programação de Jogos Digitais.
 
-O objetivo desta aplicação web é servir como hub central para a apresentação da empresa, portfólio de jog e canal de contato.
+O objetivo desta aplicação web é servir como hub central para a apresentação da empresa, portfólio de jogos e canal de contato.
 
 ## 🚀 Tecnologias Utilizadas
 A arquitetura foi pensada para ser leve e sem dependências externas.
